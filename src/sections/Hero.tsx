@@ -18,7 +18,7 @@ export default function Hero() {
 
       <p className="max-w-md text-gray-700 dark:text-gray-300">
         Técnico en Desarrollo Web, enfocado en crear experiencias digitales
-        modernas con React, Tailwind y TypeScript.
+        modernas con React, Node.JS y TypeScript.
       </p>
 
       <a

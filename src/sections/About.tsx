@@ -53,14 +53,14 @@ export default function About() {
         <div className="w-full lg:w-2/3 space-y-6 text-gray-700 dark:text-gray-300">
           <div className="space-y-4">
             <p>
-              Soy Luis Alejo Lucero, Técnico en Desarrollo Web y Aplicaciones Móviles, formado en el Instituto Superior Politécnico de Córdoba.
-              Me apasiona crear experiencias digitales modernas, rápidas y accesibles para todos.
+              Soy Alejo Lucero, Técnico en Desarrollo Web y Aplicaciones Móviles, formado en el Instituto Superior Politécnico de Córdoba.
             </p>
             <p>
-              Me especializo en Frontend, mayormente en tecnologias como React, JavaSCript, TypeScript, HTML, CSS y Tailwind CSS. También tengo conocimientos de backend con herramientas como Python, Node.js, Docker y Stripe.
+              Me gusta crear experiencias digitales que sean cómodas para los usuarios, rápidas y sobre todo accesibles; Para esto me especializo en Frontend con tecnologías como React, JavaSCript, TypeScript, HTML, CSS y Tailwind CSS. También tengo conocimientos de backend con herramientas como Python, Node.js, Docker y Stripe.
+A su vez implemento buenas prácticas de desarrollo como Git, pruebas unitarias y metodologías ágiles, buscando que mi trabajo quede lo más limpio y legible posible.
             </p>
             <p>
-              A su vez implemento buenas prácticas de desarrollo como Git, pruebas unitarias y metodologías ágiles. Buscando que mi trabajo quede lo mas limpio y legible posible.
+              ¡Contactame y trabajemos juntos!
             </p>
           </div>
 
